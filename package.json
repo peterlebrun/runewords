@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/peterlebrun/runewords.git",
   "author": "peterlebrun <peterlebrun@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
 }
