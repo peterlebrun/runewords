@@ -1,0 +1,8 @@
+{
+  "name": "runewords",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/peterlebrun/runewords.git",
+  "author": "peterlebrun <peterlebrun@gmail.com>",
+  "license": "MIT"
+}
